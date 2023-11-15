@@ -10,6 +10,7 @@ nav {
     text-align: center;
     height: 200px;
     background-image: url("../assets/images/buildings_img.webp");
+    /*find out how this is the right way to code the image link*/
 }
 
 h1 {
