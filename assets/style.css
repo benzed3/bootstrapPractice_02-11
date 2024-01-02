@@ -31,6 +31,13 @@ main {
 
 img {
     width: 8%;
+    margin: 0 524.125px 0 524.125px;
+}
+
+#G54 {
+    margin: 0;
+    text-align: center;
+    width: 100%;
 }
 
 p {
