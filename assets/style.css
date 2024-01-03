@@ -30,6 +30,11 @@ main {
     font-family: 'Quicksand', sans-serif;
 }
 
+#navBar {
+    font-family: 'Permanent Marker', cursive;
+    color: white;
+}
+
 img {
     width: 8%;
     margin: 0 524.125px 0 524.125px;
