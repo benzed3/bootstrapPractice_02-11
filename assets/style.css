@@ -35,6 +35,13 @@ main {
     color: white;
 }
 
+h3 {
+    margin: 0;
+    width: 33.33%;
+    float: left;
+    text-align: center;
+}
+
 img {
     width: 8%;
     margin: 0 524.125px 0 524.125px;
